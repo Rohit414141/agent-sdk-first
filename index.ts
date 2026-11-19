@@ -1,6 +1,7 @@
 import Anthropic from "@anthropic-ai/sdk";
+import { env } from "./env.ts";
 
-const client = new Anthropic();
+const client = new Anthropic({ apiKey: env.ANTHROPIC_API_KEY });
 
 const location: string = "india";
 // Dynamic instructions -> Claude's `system` prompt

@@ -1,0 +1,3 @@
+Refund for Customer having ID cust123 for Customer is relocating/shifting to a new place (Plan: 399). Customer requested an immediate refund.
+Refund for Customer having ID cust123 for Customer is shifting/relocating to a new place (Plan: 399). Customer requested an immediate refund.
+Refund for Customer having ID cust123 for Customer is shifting/relocating to a new place and requests a refund. Plan: 399.

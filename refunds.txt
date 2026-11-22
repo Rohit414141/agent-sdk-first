@@ -1,3 +1,6 @@
 Refund for Customer having ID cust123 for Customer is relocating/shifting to a new place (Plan: 399). Customer requested an immediate refund.
 Refund for Customer having ID cust123 for Customer is shifting/relocating to a new place (Plan: 399). Customer requested an immediate refund.
 Refund for Customer having ID cust123 for Customer is shifting/relocating to a new place and requests a refund. Plan: 399.
+Refund for Customer having ID cust_234 for Customer is facing slow internet speed issues
+Refund for Customer having ID cust_234 for Customer is having slow internet speeds
+Refund for Customer having ID cust_234 for Customer is experiencing slow internet speed issues
